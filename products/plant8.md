@@ -9,8 +9,8 @@ images:
       optimized: "/images/plant8.webp"
       fallback: "/images/plant8.jpg"
     original:
-      optimized: "/images/plant8-lg.webp"
-      fallback: "/images/plant8-lg.jpg"
+      optimized: ''
+      fallback: ''
   featured:
     thumbnail:
       optimized: "/images/plant8-featured.webp"
