@@ -1,6 +1,6 @@
 ---
 id: "5"
-title: Zuccini Bread
+title: Zucchini Bread
 description: Price is for large loaf
 price: '7.00'
 images:
@@ -26,6 +26,6 @@ section: Store
 layout: product
 
 ---
-# Zuccini Bread
+# Zucchini Bread
 
 ....
