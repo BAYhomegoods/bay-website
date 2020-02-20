@@ -1,6 +1,6 @@
 ---
-slug: cactuses
-title: Cactuses
+slug: Cinnamon Rolls
+title: Cinnamon Rolls
 section: Store
 layout: category
 menu:
