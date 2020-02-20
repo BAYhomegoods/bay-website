@@ -1,6 +1,6 @@
 ---
-slug: europe
-title: Plants from Europe
+slug: Breads
+title: Breads
 section: Store
 layout: category
 menu:
