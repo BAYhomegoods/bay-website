@@ -1,16 +1,17 @@
 ---
 title: FAQ
 headline: Behold our FAQ
-introduction: All right, friends. Let’s do this. This section will cover basic, frequently
-  asked questions for e-commerce merchants.
+introduction: Thanks for coming and looking at our website. This section will cover
+  basic, frequently asked questions. If you have any questions not covered in this
+  please contact us at support@bayhomegoods.com
 questions:
-- question: How long does shipping take?
+- question: How soon can I get my products?
   answer: |-
-    Now that’s a frequent one all right, ain’t it? Your answer to this should *manage customer expectations*. Just like [a good checkout flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
+    We will try to get our product to you as soon as you would like. We request two days notice in case we are out of town or have something going on that doesn't allow us to deliver right away.
 
-      - US shipping will take between 3 to 5 business days.
-      - International shipping will take between 5 and 10 business days.
-      - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+      - With baked goods we request two days notice.
+      - We try to deliver baked items within one day of cooking to keep as fresh as possible.
+      - For fun (non-cooked) items we will try to ship out as soon as possible. Expect at least three days for item to get to you.
 - question: How do refunds and returns work?
   answer: |-
     It happens. Even the most beautiful of plants will disappoint *someone*. Again, tell it like it is:
