@@ -1,6 +1,6 @@
 ---
-slug: bigplants
-title: Big plants
+slug: Fun
+title: Fun Items
 section: Store
 layout: category
 menu:
