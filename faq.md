@@ -14,7 +14,7 @@ questions:
       - For fun (non-cooked) items we will try to ship out as soon as possible. Expect at least three days for item to get to you.
 - question: How do I pay?
   answer: "We are still looking into options. Current options are listed below:\n\n
-    \ - PayPal \n  - Facebook payment\n  - Cash"
+    \ - PayPal \n  - Facebook\n  - Cash"
 - question: How do you handle sensitive customer information?
   answer: "[GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
     am I right? Make sure you’re as transparent as possible with your data handling
