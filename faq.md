@@ -12,13 +12,9 @@ questions:
       - With baked goods we request two days notice.
       - We try to deliver baked items within one day of cooking to keep as fresh as possible.
       - For fun (non-cooked) items we will try to ship out as soon as possible. Expect at least three days for item to get to you.
-- question: How do refunds and returns work?
-  answer: |-
-    It happens. Even the most beautiful of plants will disappoint *someone*. Again, tell it like it is:
-
-      - All discounted items sales are final.
-      - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-      - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
+- question: How do I pay?
+  answer: "We are still looking into options. Current options are listed below:\n\n
+    \ - PayPal \n  - Facebook payment\n  - Cash"
 - question: How do you handle sensitive customer information?
   answer: "[GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
     am I right? Make sure you’re as transparent as possible with your data handling
