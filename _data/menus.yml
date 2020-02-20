@@ -1,1 +1,8 @@
---- {}
+---
+main:
+- url: https://www.facebook.com/BAYhomegoods
+  weight: 5
+  title: Facebook
+- url: https://www.instagram.com/bay_homegoods/
+  weight: 4
+  title: Instagram
