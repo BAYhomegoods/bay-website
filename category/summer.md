@@ -1,6 +1,6 @@
 ---
-slug: summer
-title: Summer plants
+slug: Cookies
+title: Cookies
 section: Store
 layout: category
 menu:
